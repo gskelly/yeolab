@@ -1,0 +1,24 @@
+Val,Ct,Ref,Footprint,Manufacturer,Distributor,Manufacturer PN
+CHIP-ANT,1,A1,JTI 2450AT18A100,Johanson Technology Inc,Digi-Key,2450AT18A100E
+BAL-NRF02D3,1,B1,BAL-NRF02D3,STMicroelectronics,Digi-Key,BAL-NRF02D3
+1.0pF,1,C20,SM0402,,,
+2.7nH,1,L1,SM0402,,,
+3.9nH,1,L2,SM0402,,,
+12pF 2%,2,C14 C15,SM0402,Murata Electronics North America,Digi-Key,GRM1555C1H120GA01D
+1nF,1,C18,SM0402,Murata Electronics North America,Digi-Key,GRM155R71H102KA01D
+1.5nF,1,C5,SM0402,"Samsung Electro-Mechanics America, Inc",Digi-Key,CL05B152JB5NNNC
+2.2nF,1,C19,SM0402,Murata Electronics North America,Digi-Key,GRM155R71H222KA01D
+4.7nF,2,C1 C2,SM0402,Murata Electronics North America,Digi-Key,GRM155R71H472KA01J
+47nF,1,C17,SM0402,Murata Electronics North America,Digi-Key,GRM155R71E473KA88D
+100nF,6,C3 C7 C10 C12 C13 C16,SM0402,Murata Electronics North America,Digi-Key,GRM155R71C104KA88D
+1uF,3,C6 C9 C11,SM0402,Murata Electronics North America,Digi-Key,GRM155R70G105KA12D
+1uF,1,C8,SM0402,Vishay Sprague,Digi-Key,298D105X0016K2T
+10uF,1,C4,SM0402,"Samsung Electro-Mechanics America, Inc",Digi-Key,CL05A106MR5NRNC
+PWR,1,P6,3012TR,Keystone Electronics,Digi-Key,3012TR
+30k,3,R2 R3 R4,SM0402,Panasonic Electronic Components,Digi-Key,ERJ-2GEJ303X
+1M,1,R1,SM0603,Panasonic Electronic Components,Digi-Key,ERJ-3EKF1004V
+ADS1291/2,1,U1,VQFN32,Texas Instruments,Digi-Key,ADS1291IRSMT
+NRF51X22-CEAA/CFAC,1,U2,CEAA,,,
+16MHz,1,X1,XTAL-2MMx1MM6,AVX Corp/Kyocera Corp,Digi-Key,CX2016DB16000D0FLJCC
+CONN_2,1,P1,,,,
+CONN_5,1,P2,,,,

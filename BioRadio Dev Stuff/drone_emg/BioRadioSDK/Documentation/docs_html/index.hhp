@@ -1,0 +1,53 @@
+[OPTIONS]
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=BioRadio 150 DLL
+
+[WINDOWS]
+main="BioRadio 150 DLL","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+index.html
+pages.html
+_bio_radio150_d_l_l_8h_source.html
+_bio_radio150_d_l_l___docs_8h_source.html
+_bio_radio150_d_l_l_8h.html
+_bio_radio150_d_l_l___docs_8h.html
+page_conf_files.html
+page_example_program.html
+page_about.html
+deprecated.html
+group___create_destroy.html
+group___start_stop.html
+group___config.html
+group___acq.html
+group___link.html
+group___misc.html
+modules.html
+annotated.html
+classes.html
+functions.html
+functions_vars.html
+struct_t_device_info.html
+struct_t_device_info-members.html
+dir_cee7ae9e9f70363af4dc49a384b508d9.html
+dir_e4d8ee76f9337b0e1a13ea3d700e5183.html
+files.html
+dirs.html
+globals.html
+globals_func.html
+globals_type.html
+globals_defs.html
+tabs.css
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png
+nav_h.png
+nav_f.png
+bc_s.png

@@ -1,0 +1,22 @@
+EESchema-DOCLIB  Version 2.0  Date: 7/6/2015 10:09:57 PM
+#
+$CMP CRYSTAL-4PAD
+D 4-pad crystal
+$ENDCMP
+#
+$CMP EXAMPLE-PART
+D A voltage regulator
+K regulator, voltage, vreg
+$ENDCMP
+#
+$CMP TL081
+F op_amps/tl081.pdf
+$ENDCMP
+#
+$CMP TSU102
+D Op amp.
+K AmpliOp
+F op_amps/tl071.pdf
+$ENDCMP
+#
+#End Doc Library

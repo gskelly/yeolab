@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.3  18/02/2015-02:16:13
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 1
+#
+# Dev Name: TI-PIFA
+# Package Name: TI-PIFA
+# Dev Tech: ''
+# Dev Prefix: 
+# Gate count = 1
+#
+DEF TI-PIFA ?? 0 40 N N 1 L N
+DRAW
+P 2 1 0 0 0 0 0 3200
+P 2 1 0 0 0 3200 -3200 6400
+P 2 1 0 0 -3200 6400 3200 6400
+P 2 1 0 0 3200 6400 0 3200
+X ANT ANT 0 -6400 200 U 40 40 1 1 B 
+ENDDRAW
+ENDDEF
+
+#End Library
